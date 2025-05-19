@@ -1,0 +1,19 @@
+/**
+* @name Wallpaper
+* @author lunar1um
+* @description DmsWallpapers without Nitro (so peak)
+* @version 1.0
+*/
+
+@import url(https://raw.githubusercontent.com/Lunarr199/chat-wallpapers/refs/heads/main/src.css);
+
+:root {
+    --wallpaper: url(https://cdn.discordapp.com/assets/content/13d4a70216cb7e978d23fd7e88916ee8ae2a5ad5f6d910e789d13855e8f299f6.webp);
+  /* replace with yours */
+    --blur: 100px;
+    --brightness: 0;
+    --constrast: 0.5;
+    --saturation: 0.5;
+    --hue-rotate: 0deg;
+    --opacity: 0.5;
+}
